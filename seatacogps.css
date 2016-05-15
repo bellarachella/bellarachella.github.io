@@ -1,0 +1,55 @@
+html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+​
+    header {
+        background-color:#AD1F00;
+        padding:25px;
+        font-size:12;
+        display: block;
+        width: 2000px;
+    }
+    nav {
+        line-height:;
+        background-color:grey;
+        width:125px;
+        display: inline-block;
+        horizontal-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 1000px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    .yelp {
+      width: 50px;
+      height: 50px;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+    .yelp{
+​
+    }
